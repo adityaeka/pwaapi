@@ -1,4 +1,6 @@
-[{"id":1,"name":"Plains zebra","category":"Crimson"},
+{
+"products": [  
+{"id":1,"name":"Plains zebra","category":"Crimson"},
 {"id":2,"name":"Frog (unidentified)","category":"Goldenrod"},
 {"id":3,"name":"Cattle egret","category":"Green"},
 {"id":4,"name":"Turtle (unidentified)","category":"Red"},
@@ -18,3 +20,4 @@
 {"id":18,"name":"Common eland","category":"Green"},
 {"id":19,"name":"Bear, grizzly","category":"Maroon"},
 {"id":20,"name":"Common goldeneye","category":"Blue"}]
+}
